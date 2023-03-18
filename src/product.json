@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "productName": "PRISM Exfoliating Glow Facial",
+    "price": 200000,
+    "productImage": "https://i.pinimg.com/564x/b5/be/67/b5be67cd6d76bc1d636e38acc78cd47e.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "PRISM Exfoliating Glow Serum",
+    "price": 180000,
+    "productImage": "https://i.pinimg.com/564x/19/10/8c/19108ccdaaad5bb84a3112da740cda17.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "PRISM Herbivore Botanicals Serum",
+    "price": 190000,
+    "productImage": "https://i.pinimg.com/564x/08/3e/9c/083e9c9f428a3e3901f52dcfb9d1b389.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "PRISM Herbivore Natural Fruit Serum",
+    "price": 180000,
+    "productImage": "https://i.pinimg.com/564x/3a/f8/11/3af811e0e43db0e1f0000abf26a1aa5f.jpg"
+  },
+  {
+    "id": 5,
+    "productName": "Fourth Ray Pink GrapeFruit Body Milk",
+    "price": 380000,
+    "productImage": "https://i.pinimg.com/564x/45/52/6e/45526e1fa43e38c3395cd4a898cb964b.jpg"
+  },
+  {
+    "id": 6,
+    "productName": "Fourth Ray Pineapple Face Polish",
+    "price": 250000,
+    "productImage": "https://i.pinimg.com/564x/c9/74/2f/c9742f6dbf3ee693caff59c60cf6e52e.jpg"
+  },
+  {
+    "id": 7,
+    "productName": "Fourth Ray Watermelon Face Polish",
+    "price": 250000,
+    "productImage": "https://i.pinimg.com/564x/71/b1/65/71b165975fe448532970cc5dfdcf1f23.jpg"
+  },
+  {
+    "id": 8,
+    "productName": "Fourth Ray Pumpkin FacePolish",
+    "price": 250000,
+    "productImage": "https://i.pinimg.com/564x/77/d4/25/77d4254c6fd0076d7baad4113ee047c8.jpg"
+  },
+  {
+    "id": 9,
+    "productName": "Laneige Lip Sleeping Mask (Gummy Bear)",
+    "price": 130000,
+    "productImage": "https://i.pinimg.com/564x/87/92/f0/8792f0102b5f0e1911165393e21dadf2.jpg"
+  },
+  {
+    "id": 10,
+    "productName": "Laneige Lip Sleeping Mask (Apple Lime)",
+    "price": 130000,
+    "productImage": "https://i.pinimg.com/564x/ad/93/51/ad9351ad575bfab03a864a70da6ddf4f.jpg"
+  },
+  {
+    "id": 11,
+    "productName": "Laneige Lip Sleeping Mask (Lemon Sorbet)",
+    "price": 130000,
+    "productImage": "https://i.pinimg.com/564x/ba/56/c0/ba56c079fab9af58b47cd7bcc5c1d2e0.jpg"
+  },
+  {
+    "id": 12,
+    "productName": "Laneige Lip Sleeping Mask (Mint Choco)",
+    "price": 130000,
+    "productImage": "https://i.pinimg.com/564x/9e/4a/8a/9e4a8aa577c269a5fcf28d457eef1c32.jpg"
+  },
+  {
+    "id": 13,
+    "productName": "Glow Recipe Plum Hyaluronic Cream ",
+    "price": 150000,
+    "productImage": "https://i.pinimg.com/564x/6f/ad/41/6fad419efc89a8e2d0bf3958cc59b09d.jpg"
+  },
+  {
+    "id": 14,
+    "productName": "Glow Recipe Pineapple Bright Serum",
+    "price": 160000,
+    "productImage": "https://i.pinimg.com/564x/04/1a/b2/041ab2f88aa547d22d965d71e09d4fcf.jpg"
+  },
+  {
+    "id": 15,
+    "productName": "Glow Recipe Papaya Sorbet Cleansing Balm",
+    "price": 150000,
+    "productImage": "https://i.pinimg.com/564x/10/21/67/10216797daf2b08c8ae9cd94619f8fbc.jpg"
+  },
+  {
+    "id": 16,
+    "productName": "Glow Recipe Avocado Melt Retinol ",
+    "price": 140000,
+    "productImage": "https://i.pinimg.com/564x/c2/d9/a0/c2d9a0b5e168466c8491b80a180c4f7a.jpg"
+  }
+]

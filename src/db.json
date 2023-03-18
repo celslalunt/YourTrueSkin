@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "productName": "Fourth Ray Lip Balm Strawberry",
+      "productImage": "https://i.pinimg.com/564x/27/b3/9e/27b39ecd63fa4a17145d11e97f213373.jpg",
+      "desc": "Lip Balm",
+      "price": "120000",
+      "id": 2
+    },
+    {
+      "productName": "Fourth Ray Lip Balm Vanilla",
+      "productImage": "https://i.pinimg.com/564x/ab/2f/bb/ab2fbb62b9fc4b438903910aac2f9840.jpg",
+      "desc": "Lip Balm",
+      "price": "120000",
+      "id": 3
+    },
+    {
+      "productName": "Fourth Ray Lip Balm Purple",
+      "productImage": "https://i.pinimg.com/564x/4c/9f/13/4c9f13054e8a04ff40649aef45924d7d.jpg",
+      "desc": "Lip Balm",
+      "price": "120000",
+      "id": 4
+    },
+    {
+      "productName": "Fourth Ray Lip Balm Dew Over",
+      "productImage": "https://i.pinimg.com/564x/c5/9b/33/c59b331b6a8f75570d7b5f32fc3ccd16.jpg",
+      "desc": "Lip Balm",
+      "price": "120000",
+      "id": 5
+    }
+  ]
+}
