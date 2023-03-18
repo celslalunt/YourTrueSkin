@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YourTrueSkin/static/css/main.a5fc421a.css",
+    "main.js": "/YourTrueSkin/static/js/main.84d558fc.js",
+    "static/js/787.ae29b0d1.chunk.js": "/YourTrueSkin/static/js/787.ae29b0d1.chunk.js",
+    "static/media/logo.svg": "/YourTrueSkin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YourTrueSkin/index.html",
+    "main.a5fc421a.css.map": "/YourTrueSkin/static/css/main.a5fc421a.css.map",
+    "main.84d558fc.js.map": "/YourTrueSkin/static/js/main.84d558fc.js.map",
+    "787.ae29b0d1.chunk.js.map": "/YourTrueSkin/static/js/787.ae29b0d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5fc421a.css",
+    "static/js/main.84d558fc.js"
+  ]
+}
