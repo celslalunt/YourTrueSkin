@@ -13,10 +13,13 @@ function App() {
       <Navbarmenu />
       <div className="container">
         <Routes>
-          <Route path="/" element={<Products />}></Route>
-          <Route path="/cart" element={<Cart />}></Route>
-          <Route path="/admin" element={<AddProduct />}></Route>
-          <Route path="/newarrivals" element={<Newarrivals />}></Route>
+          <Route path="/YourTrueSkin" element={<Products />}></Route>
+          <Route path="/YourTrueSkin/cart" element={<Cart />}></Route>
+          <Route path="/YourTrueSkin/admin" element={<AddProduct />}></Route>
+          <Route
+            path="/YourTrueSkin/newarrivals"
+            element={<Newarrivals />}
+          ></Route>
         </Routes>
       </div>
     </>

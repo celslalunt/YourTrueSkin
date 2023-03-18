@@ -60,7 +60,7 @@ function Navbarmenu() {
     <div>
       <Navbar bg="light" expand="lg" className="shadow-sm">
         <Container>
-          <Link to="/">
+          <Link to="/YourTrueSkin">
             <Navbar.Brand>Your True Skin</Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -68,14 +68,14 @@ function Navbarmenu() {
             <Nav className="me-auto">
               <NavDropdown title="Menu" id="basic-nav-dropdown">
                 <NavDropdown.Item>
-                  <Link to="/cart">Cart</Link>
+                  <Link to="/YourTrueSkin/cart">Cart</Link>
                 </NavDropdown.Item>
                 <NavDropdown.Item>
-                  <Link to="/newarrivals">New Arrivals!</Link>
+                  <Link to="/YourTrueSkin/newarrivals">New Arrivals!</Link>
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item>
-                  <Link to="/admin">Admin</Link>
+                  <Link to="/YourTrueSkin/admin">Admin</Link>
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>
